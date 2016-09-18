@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails blog: development" uuid="28ee60b7-2f8d-49f4-8a08-93613e0bedc3">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+      <user-password>dfd9df97dfebdfd2dfc3dfcbdfc4dfcddf99df9ddf9d</user-password>
+    </data-source>
+    <data-source name="Rails blog: test" uuid="8c81fc90-a65b-4ce5-8a77-7c9fec76612d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>root</user-name>
+      <user-password>dfd9df97dfebdfd2dfc3dfcbdfc4dfcddf99df9ddf9d</user-password>
+    </data-source>
+    <data-source name="Rails blog: production" uuid="abaa8e79-2d99-4f13-9dfd-2f2b80e8df84">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>blog</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe8dfe6dfe5dfeddff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
